@@ -31,10 +31,10 @@ div {
   }
   
   
-#Indigo {
+div > #Indigo {
   border-top-color: #8a2be2;
   }
   
-#Violet {
+div > #Violet {
   border-top-color: #d300c9;
   }
